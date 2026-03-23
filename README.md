@@ -1,4 +1,4 @@
-# Hey, I'm Julien 👋
+# Hey, I'm Julien
 
 I started with hands-on tech work and quickly moved into networking, scripting, and system-level troubleshooting. Today, I focus on building practical solutions and developing a strong foundation in cybersecurity and developer tooling.
 
@@ -64,5 +64,9 @@ I focus on understanding how systems and code interact at a deeper level. Instea
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=flat&logo=hashcat&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-222222?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
