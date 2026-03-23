@@ -1,12 +1,12 @@
-# Hey, I'm Julien
+# Julien here
 
-I started with hands-on tech work and quickly moved into networking, scripting, and system-level troubleshooting. Today, I focus on building practical solutions and developing a strong foundation in cybersecurity and developer tooling.
+I started with hands-on tech work and quickly moved into networking, scripting, and system-level troubleshooting. Today, I build practical solutions across cybersecurity, automation, and developer tooling, with a strong focus on offensive security and pentesting.
 
-I approach problems analytically and work directly on real systems, not just theory. My goal is to understand how systems behave in practice and build tools that make workflows faster and more reliable.
+I approach problems analytically and work directly on real systems, not just theory. I focus on understanding system behavior in practice, identifying weaknesses, and building tools that make workflows faster and more reliable.
 
-A few years of hands-on experience across networking, scripting, and system debugging, with a strong focus on practical problem-solving and continuous skill development.
+Hands-on experience across networking, scripting, and system debugging, with a strong focus on practical problem-solving.
 
-> Built and debugged real-world setups including network troubleshooting (DHCP / Powerline issues), automation scripts, and custom tools for personal workflows
+> Built and debugged real-world systems, including network troubleshooting (DHCP / Powerline), automation pipelines, and custom workflow tools
 
 ---
 
@@ -25,34 +25,34 @@ A few years of hands-on experience across networking, scripting, and system debu
 
 ## Current focus
 
-- **Cybersecurity:** analyzing systems, identifying weaknesses, and understanding real-world attack surfaces
-- **Automation:** building scripts that collect, process, and deliver data efficiently
-- **Networking:** diagnosing issues and optimizing system communication
-- **Developer tooling:** creating structured, reliable solutions instead of quick fixes
+- **Pentesting:** analyzing systems, identifying vulnerabilities, and understanding real-world attack paths  
+- **Offensive security:** practical exploitation, enumeration, and attack surface analysis  
+- **Automation:** building scripts that collect, process, and deliver data efficiently  
+- **Networking:** diagnosing issues and understanding system communication at a deeper level  
 
 ---
 
 ## Automation & Tooling
 
-I design and build automation systems that remove repetitive manual work and streamline workflows. By integrating APIs, scripts, and webhooks, I create systems that operate reliably and scale with increasing complexity.
+I build automation systems that eliminate repetitive work and streamline workflows. By integrating APIs, scripts, and webhooks, I create systems that run reliably and scale with increasing complexity.
 
-- Automated data retrieval and notification pipelines
-- Structured workflows for consistent execution
-- Focus on efficiency, reliability, and maintainability
+- Automated data retrieval and notification pipelines  
+- Structured workflows for consistent execution  
+- Focus on efficiency, reliability, and maintainability  
 
-**Stack:** Python · APIs · Webhooks · Linux · Windows
+**Stack:** Python · APIs · Webhooks · Linux · Windows  
 
 ---
 
-## Systems & Code Understanding
+## Systems & Security Understanding
 
-I focus on understanding how systems and code interact at a deeper level. Instead of treating software as a black box, I analyze structure, data flow, and dependencies to build more robust solutions.
+I focus on understanding how systems behave under real conditions. Instead of treating software as a black box, I analyze structure, data flow, and potential attack surfaces to identify weaknesses and improve robustness.
 
-- Analysis of system behavior and communication
-- Understanding of data flow across applications
-- Identification of bottlenecks and failure points
+- Analysis of system behavior and communication  
+- Understanding of data flow across applications  
+- Identification of vulnerabilities and failure points  
 
-**Stack:** Python · Networking tools · System analysis
+**Stack:** Python · Networking tools · System analysis  
 
 ---
 
@@ -69,4 +69,3 @@ I focus on understanding how systems and code interact at a deeper level. Instea
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=flat&logo=hashcat&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-222222?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
