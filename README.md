@@ -18,7 +18,7 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Havkz&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Havkz&theme=github_dark" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
