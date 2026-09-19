@@ -13,12 +13,11 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Havkz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Havkz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Havkz&theme=github_dark" alt="Contribution Graph" width="100%"/>
+  <img src="assets/contributions.svg" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
