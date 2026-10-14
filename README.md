@@ -12,13 +12,8 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Havkz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
 
-<p align="center">
-  <img src="assets/contributions.svg" alt="Contribution Graph" width="100%"/>
-</p>
+![Commit-Aktivität](https://github-readme-activity-graph.vercel.app/graph?username=Havkz&theme=github-dark
 
 ---
 
