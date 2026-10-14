@@ -13,7 +13,7 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 ## GitHub Stats
 
 
-![Commit-Aktivität](https://github-readme-activity-graph.vercel.app/graph?username=Havkz&theme=github-dark
+![Commit-Aktivität](https://github-readme-activity-graph.vercel.app/graph?username=Havkz&theme=github-dark)
 
 ---
 
