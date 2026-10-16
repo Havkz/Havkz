@@ -13,7 +13,7 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 ## GitHub Stats
 
 
-![GitHub-Aktivität](https://ghchart.rshah.org/58A6FF/Havkz)
+![GitHub Commit Activity](https://github-commit-activity-ait5ye1l6-havkzs-projects.vercel.app/api/commits)
 
 ---
 
