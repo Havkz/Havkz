@@ -1,65 +1,68 @@
-# Julien here
+<p align="center">
+  <img src="./assets/header.svg" alt="Julien — Offensive Security, Automation & Systems" width="100%" />
+</p>
 
-I started with hands-on tech work and quickly moved into networking, scripting, and system-level troubleshooting. Today, I build practical solutions across cybersecurity, automation, and developer tooling, with a strong focus on offensive security and pentesting.
+<p align="center">
+  <strong>Building practical tools. Understanding systems. Exploring security.</strong>
+</p>
 
-I approach problems analytically and work directly on real systems, not just theory. I focus on understanding system behavior in practice, identifying weaknesses, and building tools that make workflows faster and more reliable.
-
-Hands-on experience across networking, scripting, and system debugging, with a strong focus on practical problem-solving.
-
-> Built and debugged real-world systems, including network troubleshooting (DHCP / Powerline), automation pipelines, and custom workflow tools
-
----
-
-## GitHub Stats
-
-
-[![GitHub Commit Activity](https://commit-graph-github.vercel.app/api/commits?v=sqrt-1)](https://commit-graph-github.vercel.app/)
+<p align="center">
+  <a href="#about-me">About</a> · <a href="#featured-projects">Projects</a> · <a href="#github-activity">Activity</a> · <a href="#tech-stack">Tech Stack</a>
+</p>
 
 ---
 
-## Current focus
+### About Me
 
-- **Pentesting:** analyzing systems, identifying vulnerabilities, and understanding real-world attack paths  
-- **Offensive security:** practical exploitation, enumeration, and attack surface analysis  
-- **Automation:** building scripts that collect, process, and deliver data efficiently  
-- **Networking:** diagnosing issues and understanding system communication at a deeper level  
+Hi, I'm **Julien**, a high school student based in **Berlin, Germany**, with a strong interest in **cybersecurity, software development, and computer systems**.
 
----
+I started by exploring how technology works in practice: troubleshooting networks, writing scripts, and working with Linux and Windows systems. Over time, that curiosity grew into building my own tools and studying how applications communicate, fail, and can be secured.
 
-## Automation & Tooling
+I'm currently developing my skills through **independent projects and hands-on learning**, with a long-term goal of specializing in **web application penetration testing and offensive security**. I value understanding *why* something works, not just getting it to work.
 
-I build automation systems that eliminate repetitive work and streamline workflows. By integrating APIs, scripts, and webhooks, I create systems that run reliably and scale with increasing complexity.
+### Featured Projects
 
-- Automated data retrieval and notification pipelines  
-- Structured workflows for consistent execution  
-- Focus on efficiency, reliability, and maintainability  
+**Vulnora** · *In development*  
+An AI-assisted web application security testing tool. I'm working on bringing together web reconnaissance, testing workflows, and local AI assistance in a practical interface. It's my main security-focused project and an ongoing learning experience.
 
-**Stack:** Python · APIs · Webhooks · Linux · Windows  
+**CodexPi** · *Developer tooling*  
+A project focused on making AI-assisted development workflows easier to manage and automate, including session handling and workflow reliability.
 
----
+<!-- Add verified repository links to the project names when ready. -->
 
-## Systems & Security Understanding
+### GitHub Activity
 
-I focus on understanding how systems behave under real conditions. Instead of treating software as a black box, I analyze structure, data flow, and potential attack surfaces to identify weaknesses and improve robustness.
+<p align="center">
+  <a href="https://commit-graph-github.vercel.app/">
+    <img src="https://commit-graph-github.vercel.app/api/commits?v=sqrt-1" alt="GitHub commit activity graph" width="100%" />
+  </a>
+</p>
 
-- Analysis of system behavior and communication  
-- Understanding of data flow across applications  
-- Identification of vulnerabilities and failure points  
+### What I'm Working On
 
-**Stack:** Python · Networking tools · System analysis  
+- **Web security:** strengthening my knowledge of enumeration, attack surfaces, and application vulnerabilities.
+- **Vulnora:** developing an AI-supported toolkit for structured web security testing.
+- **Automation:** creating Python tools and reliable services that simplify repetitive tasks.
+- **Systems & networking:** working with Linux servers, network protocols, and real-world troubleshooting.
 
----
+### How I Work
 
-## What I work with
+I prefer **practical experimentation and systematic problem-solving**: reproduce a problem, understand the underlying behavior, build a solution, and improve it through testing. My projects are both tools I want to use and opportunities to deepen my technical skills.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=flat&logo=hashcat&logoColor=white)
+### Tech Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=58A6FF" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=58A6FF" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=58A6FF" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=58A6FF" />
+</p>
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=A371F7" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows&logoColor=A371F7" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-111827?style=flat-square&logo=wireshark&logoColor=A371F7" />
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-111827?style=flat-square&logoColor=A371F7" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-111827?style=flat-square&logo=burpsuite&logoColor=A371F7" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-111827?style=flat-square&logo=kalilinux&logoColor=A371F7" />
+  <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-111827?style=flat-square&logoColor=A371F7" />
+</p>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Julien — Cyber Blue</title>
+  <desc id="desc">Dark blue technical profile banner with Julien's name and focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111D33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.085" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <path d="M 830 280 L 1035 0 M 950 280 L 1155 0 M 1070 280 L 1200 105" stroke="#58A6FF" stroke-opacity="0.13" stroke-width="2"/>
+  <circle cx="1000" cy="140" r="100" fill="none" stroke="#58A6FF" stroke-opacity="0.16" stroke-width="1"/>
+  <circle cx="1000" cy="140" r="65" fill="none" stroke="#A371F7" stroke-opacity="0.2" stroke-width="1"/>
+  <rect x="64" y="58" width="55" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="146" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#F0F6FC">Julien<tspan fill="#58A6FF">.</tspan></text>
+  <text x="66" y="190" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.9" fill="#AABAD0">OFFENSIVE SECURITY  /  AUTOMATION  /  SYSTEMS</text>
+  <rect x="64" y="222" width="440" height="2" rx="1" fill="url(#accent)" opacity="0.7"/>
+  <circle cx="1106" cy="63" r="5" fill="#58A6FF" opacity="0.8"/>
+  <circle cx="1088" cy="79" r="3" fill="#A371F7" opacity="0.8"/>
+</svg>
