@@ -13,7 +13,7 @@ Hands-on experience across networking, scripting, and system debugging, with a s
 ## GitHub Stats
 
 
-![GitHub Commit Activity](https://commit-graph-github.vercel.app/api/commits)
+[![GitHub Commit Activity](https://commit-graph-github.vercel.app/api/commits?v=sqrt-1)](https://commit-graph-github.vercel.app/)
 
 ---
 
